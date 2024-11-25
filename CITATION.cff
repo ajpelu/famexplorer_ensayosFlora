@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Utilización de la app famexplorer
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Pérez-Luque
+    name-particle: 'Antonio J. '
+    email: antonio.perez@inia.csic.es
+    affiliation: 'Instituto de Ciencias Forestales (ICIFOR), INIA-CSIC'
+    orcid: 'https://orcid.org/0000-0002-1747-0469'
+  - given-names: Lorite
+    name-particle: Juan
+    email: jlorite@ugr.es
+    affiliation: 'Dpto. Botánica, Universidad de Granada'
+    orcid: 'https://orcid.org/0000-0003-4617-8069'
+identifiers:
+  - type: doi
+    value: 10.6084/m9.figshare.27902154
+repository-code: 'https://github.com/ajpelu/famexplorer_ensayosFlora'
+url: 'https://ajpelu.github.io/famexplorer_ensayosFlora'
+license: MIT
+date-released: '2024-11-25'
