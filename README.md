@@ -13,5 +13,5 @@ Online sobre Metodologías de Ensayos de Flora.
 - Juan Lorite Moreno. 
 
 ## Contenido
-- Slides
-- [Pdf]()
+- [Slides](https://ajpelu.github.io/famexplorer_ensayosFlora/)
+- [Pdf](https://github.com/ajpelu/famexplorer_ensayosFlora/blob/main/famexplorer_formacion202411.pdf)
